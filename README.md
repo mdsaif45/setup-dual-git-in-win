@@ -1,6 +1,7 @@
 ---
 
-## Setup Multiple GitHub Accounts on One System (Work + Personal)
+## Setup Multiple GitHub Accounts on One System 
+   *(Work + Personal)*
 
 Follow these steps to configure **multiple GitHub accounts** (e.g., *work* and *personal*) on the same computer using SSH keys.
 
